@@ -1,0 +1,6 @@
+In this project, I used Stanford CoreNLPParser.
+Before you use this, you have to download CoreNLP and connect to the server.
+
+Since this code crawls wikipedia,
+and send request to Stanford CoreNLP,
+running this code would take a lot of time.
