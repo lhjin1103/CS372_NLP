@@ -1,5 +1,5 @@
 # CS372_NLP
-homeworks in KAIST CS372 Natural Language Processing with Python
+homeworks in 2020 KAIST CS372 Natural Language Processing with Python
 
 
 ## Homework 1
